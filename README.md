@@ -9,3 +9,4 @@ kncn project
 2. How to use
   - To convert a youtube video to a url stream use this comand: yt-dlp -g <youtube url>
     
+`README`
